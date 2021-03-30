@@ -1,0 +1,2 @@
+# ventas
+laravel+inertia+react
